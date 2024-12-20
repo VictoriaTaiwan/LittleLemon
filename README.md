@@ -19,7 +19,6 @@ Cart button will lead to the customer's shopping list.
 
 <img src="https://github.com/user-attachments/assets/cce82868-4053-4950-8e8e-0e267d7f8b54" width="300" height="700" />
 <img src="https://github.com/user-attachments/assets/9ae450d4-3a6c-46c8-bfad-192266cbf8fd" width="300" height="700" />
-<img src="https://github.com/user-attachments/assets/4e2aa447-9c71-4f3f-b4c1-9ee40c87664e" width="300" height="700" />
 
 ***
 
