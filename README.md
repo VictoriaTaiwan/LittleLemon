@@ -1,5 +1,11 @@
 This is a mobile food ordering app. 
 
+Wireframe
+
+<img src="https://github.com/user-attachments/assets/1254541d-80d5-405c-a263-cbdab2e016b6" width="400" height="700" />
+
+***
+
 Registration Page will welcome new customer and ask to create an account.
 
 <img src="https://github.com/user-attachments/assets/faae7de0-6585-4639-9a0e-50cf955a3d17" width="300" height="700" />
