@@ -2,7 +2,7 @@ This is a mobile food ordering app.
 
 Home page wireframe.
 
-<img src="https://github.com/user-attachments/assets/1254541d-80d5-405c-a263-cbdab2e016b6" width="400" height="700" />
+<img src="https://github.com/user-attachments/assets/1254541d-80d5-405c-a263-cbdab2e016b6" width="600" height="700" />
 
 ***
 
