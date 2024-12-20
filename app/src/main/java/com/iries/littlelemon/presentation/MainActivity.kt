@@ -1,4 +1,4 @@
-package com.example.little_lemon.presentation
+package com.iries.littlelemon.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

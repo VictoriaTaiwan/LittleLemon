@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.littlelemon"
+    namespace = "com.iries.littlelemon"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.littlelemon"
+        applicationId = "com.iries.littlelemon"
         minSdk = 34
         targetSdk = 35
         versionCode = 1

@@ -3,7 +3,7 @@ package com.iries.littlelemon.presentation.theme
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
-import com.example.little_lemon.R
+import com.iries.littlelemon.R
 
 
 object AppFont{

@@ -1,6 +1,7 @@
 package com.iries.littlelemon.network
 
 import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
 
 class Network {
     @Serializable

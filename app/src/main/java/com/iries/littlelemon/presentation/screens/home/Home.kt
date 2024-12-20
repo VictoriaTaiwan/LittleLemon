@@ -32,18 +32,18 @@ import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.example.little_lemon.R
+import com.iries.littlelemon.R
 import com.iries.littlelemon.data.MenuEntity
-import com.example.little_lemon.presentation.MenuViewModel
+import com.iries.littlelemon.presentation.MenuViewModel
 import com.iries.littlelemon.presentation.common.CardContents
 import com.iries.littlelemon.presentation.common.CategoryButton
 import com.iries.littlelemon.presentation.common.LemonLogo
 import com.iries.littlelemon.presentation.common.MealCard
 import com.iries.littlelemon.presentation.common.SearchBar
-import com.example.little_lemon.presentation.theme.Corn_Silk
-import com.example.little_lemon.presentation.theme.Custom_Green
-import com.example.little_lemon.presentation.theme.Custom_Light_Green
-import com.example.little_lemon.presentation.theme.Custom_Pink
+import com.iries.littlelemon.presentation.theme.Corn_Silk
+import com.iries.littlelemon.presentation.theme.Custom_Green
+import com.iries.littlelemon.presentation.theme.Custom_Light_Green
+import com.iries.littlelemon.presentation.theme.Custom_Pink
 
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")

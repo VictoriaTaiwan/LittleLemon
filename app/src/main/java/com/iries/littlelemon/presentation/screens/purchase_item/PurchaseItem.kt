@@ -16,7 +16,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.unit.dp
-import com.example.little_lemon.presentation.MenuViewModel
+import com.iries.littlelemon.presentation.MenuViewModel
 import com.iries.littlelemon.presentation.common.MealCard
 
 

@@ -20,8 +20,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.little_lemon.R
-import com.example.little_lemon.presentation.theme.Custom_Yellow
+import com.iries.littlelemon.R
+import com.iries.littlelemon.presentation.theme.Custom_Yellow
 
 @Composable
 fun CardContents() {

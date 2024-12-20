@@ -1,4 +1,4 @@
-package com.example.little_lemon.presentation
+package com.iries.littlelemon.presentation
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.LiveData

@@ -22,11 +22,11 @@ import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.little_lemon.PrefManager
+import com.iries.littlelemon.PrefManager
 import com.iries.littlelemon.presentation.common.DataField
 import com.iries.littlelemon.presentation.common.LemonLogo
-import com.example.little_lemon.presentation.theme.Custom_Green
-import com.example.little_lemon.presentation.theme.Custom_Pink
+import com.iries.littlelemon.presentation.theme.Custom_Green
+import com.iries.littlelemon.presentation.theme.Custom_Pink
 
 @Composable
 fun Onboarding(

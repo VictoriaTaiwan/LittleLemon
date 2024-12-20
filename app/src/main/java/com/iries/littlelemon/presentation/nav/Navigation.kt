@@ -6,13 +6,15 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.little_lemon.PrefManager
-import com.example.little_lemon.presentation.MenuViewModel
+import com.iries.littlelemon.PrefManager
+import com.iries.littlelemon.presentation.MenuViewModel
 import com.iries.littlelemon.presentation.screens.cart.Cart
 import com.iries.littlelemon.presentation.screens.home.Home
 import com.iries.littlelemon.presentation.screens.login.Onboarding
 import com.iries.littlelemon.presentation.screens.profile.Profile
 import com.iries.littlelemon.presentation.screens.purchase_item.PurchaseItem
+
+import kotlinx.serialization.Serializable
 
 
 @Composable
